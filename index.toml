@@ -913,6 +913,11 @@ hash = "372e78cdd230b280eed1911a7008d2c37d62bbb6b420491c267035d3fe86dd17"
 metafile = true
 
 [[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "16844a7ff3b0aa9252eb7cb940ec6a26cf339132729e59420ef370146e2ca049"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
@@ -1065,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "8ecc701d8dfc104b63e220b7de283c515b1db90c3f348410e4a5644dc529a913"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
 metafile = true
 
 [[files]]
@@ -1395,6 +1405,11 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "191ef8604adf7a431069eed8dc025f1431e97065d8141a2a4d5e488fc4c10640"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "29e5b37522eee968368d1a638b3c2aab49c8e04306d80386a2e186403d744572"
 metafile = true
 
 [[files]]
