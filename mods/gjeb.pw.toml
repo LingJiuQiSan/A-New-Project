@@ -1,0 +1,13 @@
+name = "GJEB (GammaJustExtremeBright)"
+filename = "gjeb-1.19.2-1.2.1.27.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9406de0033a03ed285140ff46052914771004fb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4432917
+project-id = 347604

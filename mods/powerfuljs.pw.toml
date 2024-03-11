@@ -1,0 +1,13 @@
+name = "PowerfulJS"
+filename = "powerfuljs-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3e4bb52987f734cdcf72f87360a1ebd97e6692b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4818642
+project-id = 819845

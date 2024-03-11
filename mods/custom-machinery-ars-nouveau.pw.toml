@@ -1,0 +1,13 @@
+name = "Custom Machinery Ars Nouveau"
+filename = "CustomMachineryArsNoveau-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "138033e7917b298c4deddb3e519755fdf07e2b7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5107479
+project-id = 969074

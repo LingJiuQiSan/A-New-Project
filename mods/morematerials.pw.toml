@@ -1,0 +1,13 @@
+name = "Lopy's More Materials"
+filename = "mmt-UP0.3b-1.19.2-morematerials.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "022873170061140cf0c12c410b08ef44edcb5eaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4483226
+project-id = 605483

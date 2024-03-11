@@ -1,0 +1,13 @@
+name = "Custom Machinery Botania"
+filename = "CustomMachineryBotania-forge-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7910a6368089bc1e6c48952688215a5ae4833115"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5107616
+project-id = 967739

@@ -1,0 +1,13 @@
+name = "FTB SkyBlock Addons"
+filename = "ftb-skyblock-addons-1.2.4+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a0106753764e28b7e04741723fba1414911f030"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5124723
+project-id = 846765
