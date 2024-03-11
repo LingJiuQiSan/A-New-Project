@@ -37,8 +37,20 @@ file = "config/ae2additions-common.toml"
 hash = "0c3f29e54a5313bc9c883ae292e84f93c1609c744139de1ebc037f73c1d7deab"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "153d252f0802b79517673c25c891c72b1e52566d7dac172832c6a83cfc224a90"
+
+[[files]]
 file = "config/almostunified/startup.json"
 hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "9dd105eb404830a866f936672179caba237f174c21bdc31c7756442339241131"
 
 [[files]]
 file = "config/ars_nouveau-client.toml"
@@ -205,6 +217,10 @@ file = "config/cucumber-common.toml"
 hash = "186e94e7d3f74e5d731cd69e30f8a1e0a300c3fbbfcf92dc5ddb9d8b9d96eeeb"
 
 [[files]]
+file = "config/cucumber-tags.json"
+hash = "ab1a142b08e16556f6c81f073a4fe03623f183ab3b5a463872e395c253fcde5e"
+
+[[files]]
 file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
@@ -222,7 +238,15 @@ hash = "eecf5c21104222934b84b50c9d1b076d267776d65b81e85f46da15ba4f3b1f28"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
-hash = "273f215955ee28d7d57fad23fbd636034d693a9bd5ac769698c72e6993eff91e"
+hash = "78fea9622ac2042f29bcf6443a0ad55ab49c329663b04c42c1ed0ce968a7475d"
+
+[[files]]
+file = "config/defaultworldtype/world-types.txt"
+hash = "6db399d554adfb802fa694709e27867003d35e77e1be2cfc75c9d2d1352c4b51"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "1de0d0fcb17635275f0f6a1e2305e475139a04ba03dc0f83cfa13c7a75214b64"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -373,6 +397,10 @@ file = "config/fastbench.cfg"
 hash = "240a14e19d211945629e719c0df4ff6b537d26fcf58b514b7f7c731b3ad69183"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
+
+[[files]]
 file = "config/fluxnetworks-client.toml"
 hash = "a4d5d1dbd640f1cfe4daa2f78ad76f4fe2a939937bbcec2b157b54ecda4e7d6e"
 
@@ -521,6 +549,14 @@ file = "config/lychee-common.toml"
 hash = "43d98d1a37824526148aa27d4cc053c680f5ea34a02721ae2b9b8426174f529f"
 
 [[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3297971d06f700e010e98649dbd971a96c2368af0f0dffe15245efcab3f88077"
+
+[[files]]
 file = "config/modonomicon-client.toml"
 hash = "c13b959758ec6d79366559df00e31ae46a468862bef4f2abee8a6730d43eb6c9"
 
@@ -566,7 +602,7 @@ hash = "33b546dc5d17db056b4145bed90b2a5a28090f0935951a685729f95f3f0cc3f0"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "93b11eac0a41dcae0f8aeeca7ecfb7716a3fab01bb12d11618426c4bf6fcf62a"
+hash = "2faea39426a6ea0141945c433b15b8c52133245ca13757c0043fee9f2d798f3a"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -582,7 +618,7 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/powah.json5"
-hash = "84736c56c9bd3d07273279b128bd9eb11a825b7ec1a7ea1e2f1b64d607e030d3"
+hash = "d0841745b1c206f25128bcd7271d363a39958201d90edc4528203df8244e0c71"
 
 [[files]]
 file = "config/questsadditions-client.toml"
@@ -617,6 +653,14 @@ file = "config/smoothboot.json"
 hash = "0fb1b063fbe05d51aef22e92fdedfb830527096a026c75ec8775d553db257acb"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "28861af3bf8cbe5d2a33ec23d933788b3b1d80de11b324c1bb25ef0ab95fe056"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
 
@@ -626,7 +670,7 @@ hash = "06813199751af809ce5043408f99066b30dccfa72b2597d74543dfa6b64e8d36"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "18efac1c1eb33f4179f79688d461624bfa4496887bf2d9bc01bd0946e948a529"
+hash = "9c11a8f7b2e1547db6ff0440f93a1725f7f5e4df7da6c7e0bceb83dfca2bba80"
 
 [[files]]
 file = "config/sophisticatedstorage-client.toml"
@@ -655,6 +699,10 @@ hash = "bed71e2722d04afd15e03330d1a157a51077e8fdcd064c80ab4a49bed6a49e59"
 [[files]]
 file = "config/titanium/titanium.toml"
 hash = "565e7782790d656fd31350ef9d90cb8ff8b4f38d1fb2418072829fb404195e58"
+
+[[files]]
+file = "config/zume.json5"
+hash = "19a159138f9b8f8cf015f8cade4bf15e4423b20fd7356800b402f6f14a2cccb0"
 
 [[files]]
 file = "defaultconfigs/angelring-server.toml"
@@ -691,6 +739,50 @@ hash = "578274fa4601600ff880f789c5676a019f80145f9dcac6dc2d1c378aed204bac"
 [[files]]
 file = "defaultconfigs/woodenhopper-server.toml"
 hash = "43542965aa3dcd52ed58acd1672d4fa90dba4b3f1a75433f7a437969d4e4c4b5"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "e5215005cbea3ed4426d15f9da1311a2278af7a83c0c2b57877c6658c93d002a"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "5b378945558d20a604a74408aac41f905e84397a7ddf6ad832aaad77cafecdd1"
+
+[[files]]
+file = "kubejs/server_scripts/commands/disabled.js"
+hash = "49b6e75ee571b1ba0c99959c4f780141c07b4135f6a5128c282c796c0807cba6"
+
+[[files]]
+file = "kubejs/server_scripts/commands/gamerules.js"
+hash = "da3607a91fd4a4141b615ed8fa9f90a672b4c5f79f5bca883e781a4c7bd7b45b"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
@@ -1504,4 +1596,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e58a3339a747995a19e4134f497066828b260aa9b79e84a7b5d7d4d01f18d608"
+hash = "93ee8e03f1f5d581a23952bff151d82a92d3231f458e6927ad8a41e0692d7c11"
