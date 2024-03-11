@@ -783,6 +783,11 @@ hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
+metafile = true
+
+[[files]]
 file = "mods/classic-bars.pw.toml"
 hash = "87f59d73d0ac712c0c8c4243c1ea0e8fdebfa81caa7b9398e2799cfb1732ead7"
 metafile = true
@@ -1225,6 +1230,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7d41e05562fe72ad5c37e2853cb5d98f18580a08b212523d37a4ac379bf26617"
 metafile = true
 
 [[files]]
