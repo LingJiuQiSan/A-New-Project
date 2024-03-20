@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "45cf8249ceb6e7816dc9cf9e1f5ae094edc09210e6d6a6d1ad4b39c2ae7bf579"
+hash = "964b286efbbea56b5e5b48ad0b40409a4431d1487392531678988c3a0cb95fb4"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "a680b66c15666ba78e4d83655316f82fa281df8213ff507664ac377356bbaa25"
+hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-machinery.pw.toml"
-hash = "076ec079535436f0ff47da910f13b76feeb6058c6efae4779bc76ec7f79af3e9"
+hash = "fc220014974e3c4dd8acaa2e1d1ab9634adf7ce03bdadd0d4e86595ef73cfb8b"
 metafile = true
 
 [[files]]
@@ -1001,12 +1001,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "372e78cdd230b280eed1911a7008d2c37d62bbb6b420491c267035d3fe86dd17"
+hash = "a6747b91adb89f6e04837a3bcb59c651b6898e6a6c5b61639b01594ae73294d9"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "16844a7ff3b0aa9252eb7cb940ec6a26cf339132729e59420ef370146e2ca049"
+hash = "3e245ba597a42a73bb7d416d88b8eddcc3cd5da3b7fa04e4df76ff6c1bd57bb3"
 metafile = true
 
 [[files]]
@@ -1406,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "0948b9f7c5cdb975abe86eb1567414e7c4a7b94529f2ff443bdf827f9eb58ffb"
+hash = "eb6b168caf4f8b9f3e501e97caaa61d207ab83d6328ce2f4960c4003eca73e90"
 metafile = true
 
 [[files]]
@@ -1521,17 +1521,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9fcb2e5f35c0ac8db6adde9d7efbe784eab831fd10dcd633e516550bb0bbcf3d"
+hash = "d02bc31ff9b7c11b645162ca5af171b3844eb76f76522ce9986884019070f510"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "24622b935ae5eccc81b77105b413fdebbdafee569590b059d5a0a510d9d367dc"
+hash = "3d227a42b3b9083d87953d9b609a1cb73b905a06bebad07d0180775c1ff0cbd4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d7e637e1677bd88b6c92ba9501ac3cf3132da956d11254060ced1f0136ed82b4"
+hash = "2d297e9e2f570b99e0a3fb37ba0f8618e7c291b4ec2e5a47f79a92a947036a37"
 metafile = true
 
 [[files]]
